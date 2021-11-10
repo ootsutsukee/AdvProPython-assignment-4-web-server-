@@ -39,3 +39,9 @@ $ python3 src/app.py
 ## Usage
 
 In order to use the application, input coin name into the textfield, simply click on the search button and after search button is pressed, page should show list of paragraphs.
+
+## Example
+
+<p align="center">
+  <img src="https://github.com/ootsutsukee/AdvProPython-assignment-4-web-server-/blob/example.jpg?raw=true" alt="preview" />
+</p>
