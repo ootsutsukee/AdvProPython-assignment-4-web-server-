@@ -43,5 +43,5 @@ In order to use the application, input coin name into the textfield, simply clic
 ## Example
 
 <p align="center">
-  <img src="https://github.com/ootsutsukee/AdvProPython-assignment-4-web-server-/blob/6e3ba3c3085c1b6d28c97194083383f143c5293c/example.jpg?raw=true" alt="preview" />
+  <img src="https://github.com/ootsutsukee/AdvProPython-assignment-4-web-server-/blob/6e3ba3c3085c1b6d28c97194083383f143c5293c/example.jpg?raw=true" alt="example" />
 </p>
